@@ -1,1 +1,5 @@
-# pk10-streamlit
+requirements.txt
+streamlit
+selenium
+pandas
+

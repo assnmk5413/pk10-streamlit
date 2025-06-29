@@ -1,10 +1,3 @@
-streamlit==1.15.0
-selenium==4.8.0
-pandas==1.5.0
-undetected-chromedriver==3.1.6
-distutils==1.0.0
-
-
 import streamlit as st
 import pandas as pd
 from selenium import webdriver
